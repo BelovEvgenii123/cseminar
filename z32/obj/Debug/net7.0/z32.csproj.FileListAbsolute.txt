@@ -1,0 +1,15 @@
+/Users/evgenijbelov/Documents/GB/C#2/s/z32/bin/Debug/net7.0/z32
+/Users/evgenijbelov/Documents/GB/C#2/s/z32/bin/Debug/net7.0/z32.deps.json
+/Users/evgenijbelov/Documents/GB/C#2/s/z32/bin/Debug/net7.0/z32.runtimeconfig.json
+/Users/evgenijbelov/Documents/GB/C#2/s/z32/bin/Debug/net7.0/z32.dll
+/Users/evgenijbelov/Documents/GB/C#2/s/z32/bin/Debug/net7.0/z32.pdb
+/Users/evgenijbelov/Documents/GB/C#2/s/z32/obj/Debug/net7.0/z32.csproj.AssemblyReference.cache
+/Users/evgenijbelov/Documents/GB/C#2/s/z32/obj/Debug/net7.0/z32.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenijbelov/Documents/GB/C#2/s/z32/obj/Debug/net7.0/z32.AssemblyInfoInputs.cache
+/Users/evgenijbelov/Documents/GB/C#2/s/z32/obj/Debug/net7.0/z32.AssemblyInfo.cs
+/Users/evgenijbelov/Documents/GB/C#2/s/z32/obj/Debug/net7.0/z32.csproj.CoreCompileInputs.cache
+/Users/evgenijbelov/Documents/GB/C#2/s/z32/obj/Debug/net7.0/z32.dll
+/Users/evgenijbelov/Documents/GB/C#2/s/z32/obj/Debug/net7.0/refint/z32.dll
+/Users/evgenijbelov/Documents/GB/C#2/s/z32/obj/Debug/net7.0/z32.pdb
+/Users/evgenijbelov/Documents/GB/C#2/s/z32/obj/Debug/net7.0/z32.genruntimeconfig.cache
+/Users/evgenijbelov/Documents/GB/C#2/s/z32/obj/Debug/net7.0/ref/z32.dll
